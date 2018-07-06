@@ -1,6 +1,6 @@
 # main text of home
-name: Chris Hunter
-bio: A brand new web developer looking to find a place in this over saturated world of developers!
+name: Christopher Hunter
+bio: IT Professional & Aspiring Full Stack Developer
 
 # twitter summary info
 description: A blog about faith & technology
@@ -8,7 +8,7 @@ description: A blog about faith & technology
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/2018 Profile 2.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -56,13 +56,13 @@ authors:
         name: chrishunter
         bio: Husband, father, aspiring web designer.
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/2018 Profile 2.jpg
         twitter: itschunter
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
